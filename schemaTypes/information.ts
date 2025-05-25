@@ -39,5 +39,9 @@ export default {
     { name: 'privacyPolicy_zh', title: '隐私政策（中文）', type: 'text' },
     { name: 'privacyPolicy_en', title: '隐私政策（英文）', type: 'text' },
     { name: 'privacyPolicy_de', title: '隐私政策（德文）', type: 'text' },
+    // copyright
+    { name: 'copyright_zh', title: 'copyright（中文）', type: 'text' },
+    { name: 'copyright_en', title: 'copyright（英文）', type: 'text' },
+    { name: 'copyright_de', title: 'copyright（德文）', type: 'text' },
   ],
 };
