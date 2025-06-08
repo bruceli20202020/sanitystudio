@@ -6,6 +6,11 @@ export default {
     // 网站标题
     { name: 'webtitle', title: '标题栏标题', type: 'string' },
     
+    // banner图标题（多语言）
+    { name: 'bannerTitle', title: 'banner图标题（中文）', type: 'string' },
+    { name: 'bannerTitle_en', title: 'banner图标题（英文）', type: 'string' },
+    { name: 'bannerTitle_de', title: 'banner图标题（德文）', type: 'string' },
+    
     // 段落总标题（多语言）
     { name: 'sectionTitle', title: '段落总标题（中文）', type: 'string' },
     { name: 'sectionTitle_en', title: '段落总标题（英文）', type: 'string' },
